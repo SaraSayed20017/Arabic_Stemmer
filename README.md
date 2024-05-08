@@ -1,4 +1,5 @@
 ############ReadData#############
+
 1-if data was text -> call read_doc and will return all elements (words,charachters and evrey thing) in the text document
    need words and label -> call read_doc twice
 

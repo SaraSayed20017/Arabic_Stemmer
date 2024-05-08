@@ -1,3 +1,5 @@
+Data used only for testing and can be replaced with any data.
+
 ############ReadData#############
 
 1-if data was text -> call read_doc and will return all elements (words,charachters and evrey thing) in the text document
